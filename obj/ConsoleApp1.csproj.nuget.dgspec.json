@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bence\\Desktop\\gitmappa\\teszt\\ConsoleApp1.csproj": {}
+    "C:\\Users\\Bence\\Desktop\\teszt\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bence\\Desktop\\gitmappa\\teszt\\ConsoleApp1.csproj": {
+    "C:\\Users\\Bence\\Desktop\\teszt\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bence\\Desktop\\gitmappa\\teszt\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Bence\\Desktop\\teszt\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Bence\\Desktop\\gitmappa\\teszt\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\Bence\\Desktop\\teszt\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Bence\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bence\\Desktop\\gitmappa\\teszt\\obj\\",
+        "outputPath": "C:\\Users\\Bence\\Desktop\\teszt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bence\\AppData\\Roaming\\NuGet\\NuGet.Config",

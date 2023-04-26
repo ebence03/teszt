@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PC9Mo/YOJm5u8EO8fOwmViBO7Yy9yAybKnNR9FTm6cTLw2f/5haSw4dLEO9fBtQatnUNufCZHyD1/8LjtNbVhg==",
+  "dgSpecHash": "t7QQaTLvaGHBIopjTpsyFZOL77lw0RlM/nISdY0VgBNkf208+3I0yDPAnWvb8w2LKCtjwMLIvuSFhHq52OOT6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bence\\Desktop\\gitmappa\\teszt\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\Bence\\Desktop\\teszt\\ConsoleApp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
