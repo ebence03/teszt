@@ -7,6 +7,9 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Szia urammmmmm!");
             Console.WriteLine("Szia urammmmmm!");
+            Console.WriteLine("Szia urammmmmm!");
+            Console.WriteLine("Szia urammmmmm!");
+            Console.WriteLine("Szia urammmmmm!");
         }
     }
 }
